@@ -1,8 +1,8 @@
 # vfor1Verk07
 
-1. Búið til CSS skjal sem heitir style
-2. Vinna í HTML skjalinu
-2.1 Búið til tengingu við CSS skjalið ykkar
+1b. Búið til CSS skjal sem heitir style
+2. bVinna í HTML skjalinu
+2.1b Búið til tengingu við CSS skjalið ykkar
 2.2 Í hvert P tagg eigið þið að búa til id. Í Fyrsta p taggið, sem inniheldur textann "14.0 VERY ALKALINE" á að setja id fourteen. Í næsta fyrir neðan, sem inniheldur textann 13.0, á að setja id thirteen o.s.frv.
 
 3. Vinna  CSS skjalinu
@@ -20,7 +20,7 @@
 
 3.3 Hafið áhrif á öll p tögg
 3.3.1 Látið p tögg fá padding 5 pixla
-3.3.2 Látið p tögg fá margin 0
+3.3.2b Látið p tögg fá margin 0
 
 3.4 Látið id zero fá bakgrunnslitinn rgb(238,62,128) 
 3.5 Látið id one fá bakgrunnslitinn rgb(244,90,139)
